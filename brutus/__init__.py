@@ -24,7 +24,7 @@ def mlft(Y,
          w=None,
          reg=None,
          lfn="Gauss",
-         check=True):
+         check=False):
     """
     Maximum likelihood Fourier Transform estimator
     
